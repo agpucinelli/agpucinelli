@@ -1,3 +1,3 @@
-<H1>ANDRÉ PUCINELLI - ESTUDOS DIO
+<H1>ANDRÉ PUCINELLI - DEV FRONT-END.
 
 <H3><li>Seja bem vindo. =)
